@@ -39,13 +39,13 @@ Here are some of my recent projects. You can see my dedication and how I utilize
 
 You can find and get touch with me on...
 
-- Portfolio: [felipeschmidt.me]([https://felipeschmidt.me])
-- LinkedIn: [Felipe E. Schmidt]([https://www.linkedin.com/in/felipe-ernesto-schmidt])
+- Portfolio: [felipeschmidt.me](https://felipeschmidt.me)
+- LinkedIn: [Felipe E. Schmidt](https://www.linkedin.com/in/felipe-ernesto-schmidt)
 
 ---
 ####
 
 💻 Coding isn't just my profession, it's my passion. 😄
 
-🧑🏽 From [Felipe Schmidt]([https://github.com/FelipeESchmidt]) with some assistance from ChatGPT. 🤖
+🧑🏽 From [Felipe Schmidt](https://github.com/FelipeESchmidt) with some assistance from ChatGPT. 🤖
 
