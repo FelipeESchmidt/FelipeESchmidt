@@ -5,7 +5,7 @@
 
 I am a seasoned Front-end Developer with strong experience in developing robust and user-friendly applications using React and React Native. My code is always maintained with the highest level of quality, readability and scalability, thanks to my extensive background in Typescript. I'm also proficient with testing and visualizing components using Jest and Storybook. Moreover, styled-components is my go-to library for writing CSS in JS, which helps me create beautiful, maintainable and adaptable UIs. And of course, Git is a day-to-day part of my toolkit for version control.
 
-On top of my professional experience, I'm also currently in the final stages of completing my *Computer Science* degree. This journey has provided me with a strong foundation in computational thinking and problem-solving skills, complementing my hands-on experience and equipping me with a holistic understanding of software development.
+With a degree in Computer Science, I have gained a strong foundation in computational thinking and problem-solving skills, which complement my extensive professional experience. This holistic understanding of software development equips me to excel in both the theoretical and practical aspects of the field.
 
 ## 🔧 Technologies & Tools
 
